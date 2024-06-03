@@ -22,3 +22,8 @@ console.log(secondServer());
 console.log(secondServer());
 console.log(secondServer());
 console.log(secondServer());
+
+/*
+closure is a function bundled together (enclosed) with references to its surrounding state and 
+Access to an outer function’s scope from an inner function
+*/
